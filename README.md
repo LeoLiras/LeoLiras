@@ -35,11 +35,11 @@ O que o projeto exercita:
 
 ## 🛠️ Tecnologias
 
-**Back-end:** C# · .NET / ASP.NET Core · APIs REST · Entity Framework Core · Python · VB6 (migração de legado)
-**Front-end:** Blazor · MudBlazor · Windows Forms · DevExpress · HTML, CSS e JavaScript
-**Dados:** SQL Server (views, procedures e triggers) · PostgreSQL · Power BI
-**Infra e ferramentas:** Docker · RabbitMQ · GitHub Actions · Git · AWS · Robot Framework
-**Práticas:** SOLID · Clean Code · refatoração · testes automatizados · Scrum
+- **Back-end:** C# · .NET / ASP.NET Core · APIs REST · Entity Framework Core · Python · VB6 (migração de legado)
+- **Front-end:** Blazor · MudBlazor · Windows Forms · DevExpress · HTML, CSS e JavaScript
+- **Dados:** SQL Server (views, procedures e triggers) · PostgreSQL · Power BI
+- **Infra e ferramentas:** Docker · RabbitMQ · GitHub Actions · Git · AWS · Robot Framework
+- **Práticas:** SOLID · Clean Code · refatoração · testes automatizados · Scrum
 
 ---
 
